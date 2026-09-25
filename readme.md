@@ -91,12 +91,9 @@ This profile contains projects and exercises related to:
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emilianox-creator&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emilianox-creator&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+I'm continuously building projects and improving my skills in **software development, algorithms, and artificial intelligence**.
 
 ---
 
