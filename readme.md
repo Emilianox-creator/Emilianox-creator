@@ -37,7 +37,7 @@ I'm currently developing my skills through academic projects, personal projects,
 ### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,gcp" />
 </p>
 
 ---
