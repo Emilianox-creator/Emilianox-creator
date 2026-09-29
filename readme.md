@@ -37,7 +37,7 @@ I'm currently developing my skills through academic projects, personal projects,
 ### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,gcp" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/passport/passport-original.svg" alt="Passport.js" width="48" height="48" align="top" />
 </p>
 
 ---
