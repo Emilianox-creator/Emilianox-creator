@@ -31,13 +31,13 @@ I'm currently developing my skills through academic projects, personal projects,
 ### Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,react" />
 </p>
 
 ### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,gcp" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/passport/passport-original.svg" alt="Passport.js" width="48" height="48" align="top" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,gcp" /> 
 </p>
 
 ---
